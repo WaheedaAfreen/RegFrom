@@ -1,0 +1,26 @@
+#button {
+      margin-top: 10px;
+    }
+
+    #add {
+    
+      height: 600px;
+      text-align: center;
+      background-color: #e18080;
+      border-radius: 20px;
+      border:2px rgb(190, 50, 35) ;
+    }
+
+    #todo-list {
+
+      list-style: none;
+    }
+
+    #list {
+      font-size: 25px;
+      height: 30px;
+      background-color: beige;
+      margin-left: 350px;
+      margin-right: 350px;
+      border-radius: 10px;
+    }
